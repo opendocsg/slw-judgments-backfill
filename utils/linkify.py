@@ -88,8 +88,8 @@ def linkify_legal_doc(file_path, overwrite=False, debug=False):
         current_index = 0
         report_with_hyperlinks = ''
         for index in citations_indexes:
-            report_with_hyperlinks += '<span style=\"background-color: #FAC0C0\">' + report[current_index:index[
-                0]] + '[' + report[index[0]: index[1]] + ']' + '("https://www.open.gov.sg")</span>'
+            report_with_hyperlinks += report[current_index:index[
+                0]] + '<span style=\"background-color: #FAC0C0\">[' + report[index[0]: index[1]] + ']' + '("https://www.open.gov.sg")</span>'
             current_index = index[1]
         report_with_hyperlinks += report[current_index:]
 
