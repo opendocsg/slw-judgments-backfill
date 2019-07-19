@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Public Prosecutor v Mervin Singh and another 
+# Public Prosecutor v Mervin Singh and another 
 
 
 
@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Drug Trafficking_ 
 
-[LawNet Editorial Note: In Criminal Appeal No 18 of 2011, the first appellant’s appeal was allowed and the second appellant’s appeal was dismissed by the Court of Appeal on 8 March 2013. See [[2013] SGCA 20]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: In Criminal Appeal No 18 of 2011, the first appellant’s appeal was allowed and the second appellant’s appeal was dismissed by the Court of Appeal on 8 March 2013. See [2013] SGCA 20.] 
 
 5 October 2011 Judgment reserved. 
 

@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Anwar Patrick Adrian and another v Ng Chong & Hue LLC and another 
+# Anwar Patrick Adrian and another v Ng Chong & Hue LLC and another 
 
 
 
@@ -16,7 +16,7 @@
 
 _Tort_ – _Negligence_ – _Duty of care_ – _Solicitor and client_ – _Identity of client_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 138 of 2013 was allowed by the Court of Appeal on 29 May 2014. See [[2014] SGCA 34]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 138 of 2013 was allowed by the Court of Appeal on 29 May 2014. See [2014] SGCA 34.] 
 
 3 October 2013 Judgment reserved 
 

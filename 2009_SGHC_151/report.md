@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Public Prosecutor v Eu Lim Hoklai 
+# Public Prosecutor v Eu Lim Hoklai 
 
 
 
@@ -16,7 +16,7 @@
 
 _Criminal Law_ 
 
-**[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 14 of 2009 was allowed by the Court of Appeal on 12 April 2011. See [[2011] SGCA 16]("https://www.open.gov.sg")</span>.]** 
+**[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 14 of 2009 was allowed by the Court of Appeal on 12 April 2011. See [2011] SGCA 16.]** 
 
 30 June 2009 
 

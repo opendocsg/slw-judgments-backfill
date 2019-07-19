@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Kuok (Singapore) Ltd v Commissioner of Stamp Duties 
+# Kuok (Singapore) Ltd v Commissioner of Stamp Duties 
 
 
 
@@ -523,7 +523,7 @@
 
 ## when it goes into liquidation and this view was accepted by Chan Sek Keong J (as he then was) in 
 
-## Low Gim Har v Low Gim Siah [[1992] 2 SLR 593]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0"> in the context of revenue legislation but not 
+## Low Gim Har v Low Gim Siah [1992] 2 SLR 593 in the context of revenue legislation but not 
 
 ## necessarily in other contexts. This was because the facts in Low Gim Har did not involve revenue 
 
@@ -655,7 +655,7 @@
 
 ## mechanisms do at times attract different results. Likewise for other revenue legislation. 
 
-## 70 For example, in Andermatt Investments Pte Ltd v Comptroller of Income Tax [[1995] 3 SLR 451]("https://www.open.gov.sg")</span>, 
+## 70 For example, in Andermatt Investments Pte Ltd v Comptroller of Income Tax [1995] 3 SLR 451, 
 
 ## the appellant taxpayer had obtained a $6m overdraft secured by a mortgage on a Hillview property 
 

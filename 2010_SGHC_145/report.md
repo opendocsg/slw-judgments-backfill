@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Tan Lai Kiat v Public Prosecutor 
+# Tan Lai Kiat v Public Prosecutor 
 
 
 
@@ -364,9 +364,9 @@ _The relevant legal principles_
 54     The High Court’s revisionary power is discretionary in nature and is to be exercised sparingly; not all errors by a lower court should lead to a revision of that court’s decision. To warrant the 
 
 
-exercise of the High Court’s revisionary power, the threshold of serious injustice must be met. This principle was stated by this court in _Ang Poh Chuan v Public Prosecutor_ [[1995] 3 SLR(R) 929]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0"> (“ _Ang Poh Chuan_ ” ) at [17] and subsequently affirmed in ( _inter alia_ ) _Yunani bin Abdul Hamid v Public Prosecutor_ [[2008] 3 SLR(R) 383]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0"> (“ _Yunani_ ”) at [47] as follows: 
+exercise of the High Court’s revisionary power, the threshold of serious injustice must be met. This principle was stated by this court in _Ang Poh Chuan v Public Prosecutor_ [1995] 3 SLR(R) 929 (“ _Ang Poh Chuan_ ” ) at [17] and subsequently affirmed in ( _inter alia_ ) _Yunani bin Abdul Hamid v Public Prosecutor_ [2008] 3 SLR(R) 383 (“ _Yunani_ ”) at [47] as follows: 
 
- The starting point in Singapore, according to Yong Pung How CJ in Bedico Ma Teresa Bebango v PP [[2002] 1 SLR(R) 122]("https://www.open.gov.sg")</span>, is that the High Court’s power of revision is to be exercised “sparingly” (at [8]), viz , not all errors by a lower court should lead to a revision of that court’s decision. The threshold requirement, according to Yong CJ, is that of “serious injustice” (at [8]). This proposition was earlier stated in Ang Poh Chuan ... at [17] as follows: 
+ The starting point in Singapore, according to Yong Pung How CJ in Bedico Ma Teresa Bebango v PP [2002] 1 SLR(R) 122, is that the High Court’s power of revision is to be exercised “sparingly” (at [8]), viz , not all errors by a lower court should lead to a revision of that court’s decision. The threshold requirement, according to Yong CJ, is that of “serious injustice” (at [8]). This proposition was earlier stated in Ang Poh Chuan ... at [17] as follows: 
 
  ... [V]arious phrases may be used to identify the circumstances which would attract the exercise of the revisionary jurisdiction, but they all share the common denominator that there must be some serious injustice. Of course there cannot be a precise definition of what would constitute such serious injustice for that would in any event unduly circumscribe what must be a wide discretion vested in the court, the exercise of which would depend largely on the particular facts. But generally it must be shown that there is something palpably wrong in the decision that strikes at its basis as an exercise of judicial power by the court below. ... 
 

@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Emmanuel Priya Ethel Anne v Su Emmanuel and Another 
+# Emmanuel Priya Ethel Anne v Su Emmanuel and Another 
 
 
 
@@ -16,7 +16,7 @@
 
 _Land_ – _interest in land_ – _tenancy in common_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 67 of 2015 was allowed in part by the Court of Appeal on 19 May 2016. See [[2016] SGCA 30]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 67 of 2015 was allowed in part by the Court of Appeal on 19 May 2016. See [2016] SGCA 30.] 
 
 1 July 2015 
 

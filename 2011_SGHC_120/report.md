@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Ng Chee Weng v Lim Jit Ming Bryan and another 
+# Ng Chee Weng v Lim Jit Ming Bryan and another 
 
 
 
@@ -142,7 +142,7 @@ and:
 
  [emphasis added] 
 
-and this exposition of the doctrine was adopted by the Court of Appeal in _Ang Sin Hock v Khoo Eng Lim_ [[2010] 3 SLR 179]("https://www.open.gov.sg")</span> at [30]. 
+and this exposition of the doctrine was adopted by the Court of Appeal in _Ang Sin Hock v Khoo Eng Lim_ [2010] 3 SLR 179 at [30]. 
 
 16     In the present case the right to the dividends and the right to the settlement sum are _not_ concurrent rights because the right to the dividends existed before the right to the settlement sum, and was extinguished by it. 
 

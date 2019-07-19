@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># JR Marine Systems Pte Ltd v Rankine Bernadette Adeline and another 
+# JR Marine Systems Pte Ltd v Rankine Bernadette Adeline and another 
 
 
 
@@ -66,7 +66,7 @@ her name had been transferred without her authority to Chenet. She therefore bro
 
 **My decision** 
 
-16     The Court of Appeal in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin_ [[1997] 3 SLR(R) 649]("https://www.open.gov.sg")</span> made the following pertinent observations regarding O 18 r 19(1)( _d_ ) of the Rules of Court (at [22]): 
+16     The Court of Appeal in _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin_ [1997] 3 SLR(R) 649 made the following pertinent observations regarding O 18 r 19(1)( _d_ ) of the Rules of Court (at [22]): 
 
  The term, “abuse of the process of the Court”, in O 18 r 19(1)( d ), has been given a wide interpretation by the courts. It includes considerations of public policy and the interests of justice. This term signifies that the process of the court must be used bona fide and properly and 
 

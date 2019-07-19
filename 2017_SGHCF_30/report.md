@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># TIC v TID 
+# TIC v TID 
 
 
 
@@ -16,7 +16,7 @@
 
 _Family Law —Matrimonial assets —Division_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 183 of 2017 was dismissed by the Court of Appeal on 8 November 2018. See [[2018] SGCA 75]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 183 of 2017 was dismissed by the Court of Appeal on 8 November 2018. See [2018] SGCA 75.] 
 
 20 December 2017 
 

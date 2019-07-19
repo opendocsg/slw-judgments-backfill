@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Re PCChip Computer Manufacturer (S) Pte Ltd (in compulsory liquidation) 
+# Re PCChip Computer Manufacturer (S) Pte Ltd (in compulsory liquidation) 
 
 
 
@@ -45,7 +45,7 @@ The bank, however, contend that they are entitled to be repaid the money on thre
 
 (3) under the principle in **Ex p James, re Condon** [1874] LR 9 Ch App 609, the court would order the liquidators to return the money. 
 
-The first two grounds are related. They are based on the English decision in **Chase Manhattan Bank NA v Israel-British Bank (London)** [1981] Ch 105[1979] 3 All ER 1025which was followed by the High Court in **Standard Chartered Bank v Sin Chong Hua Electric & Trading** [[1995] 3 SLR 863]("https://www.open.gov.sg")</span>. However, I need not go into these grounds as my decision can be supported on the third ground alone, which I now set out. 
+The first two grounds are related. They are based on the English decision in **Chase Manhattan Bank NA v Israel-British Bank (London)** [1981] Ch 105[1979] 3 All ER 1025which was followed by the High Court in **Standard Chartered Bank v Sin Chong Hua Electric & Trading** [1995] 3 SLR 863. However, I need not go into these grounds as my decision can be supported on the third ground alone, which I now set out. 
 
 **_Principle in Ex p James_** 
 

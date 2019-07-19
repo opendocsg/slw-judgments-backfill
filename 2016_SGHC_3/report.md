@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"> Document Abbreviation 
+ Document Abbreviation 
 
  “Plaintiffs’ Closing Submissions” dated 17 August 2015 Plaintiff’s 1st WS 
 
@@ -306,7 +306,7 @@ with Mr Tan’s “blessing”. [note: 55] The _status quo_ had persisted. If Mr
 
 36     Beyond the 15-month period, Mr Tan did not mention the double rent issue after taking over the dormitory business in June 2012, and _even after_ he sacked the Plaintiff as managing agent. I was driven to the inevitable conclusion that Mr Tan (despite his protestations to the contrary) never intended to claim double rent. 
 
-37     On cl 2(27) of the 2009 Tenancy Agreement, the Defendant submitted valiantly on the distinction between “acquiescence” and “express agreement”. I can understand that there is an appreciable difference but on our facts, the conduct of the parties, like that in _Khng Thian Huat and another v Riduan bin Yusof and another_ [[2005] 1 SLR(R) 130]("https://www.open.gov.sg")</span>, had unequivocally “acknowledged and accepted the existence of” (at [8]) the monthly tenancy. In finding that there was express agreement for the tenancy, I categorically rejected the proposition that the agreement must be in 
+37     On cl 2(27) of the 2009 Tenancy Agreement, the Defendant submitted valiantly on the distinction between “acquiescence” and “express agreement”. I can understand that there is an appreciable difference but on our facts, the conduct of the parties, like that in _Khng Thian Huat and another v Riduan bin Yusof and another_ [2005] 1 SLR(R) 130, had unequivocally “acknowledged and accepted the existence of” (at [8]) the monthly tenancy. In finding that there was express agreement for the tenancy, I categorically rejected the proposition that the agreement must be in 
 
 writing. [note: 56] 
 

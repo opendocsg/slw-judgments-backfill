@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Public Prosecutor v Sivakumar s/o Selvarajah 
+# Public Prosecutor v Sivakumar s/o Selvarajah 
 
 
 
@@ -18,7 +18,7 @@ _Criminal Law_ – _Offences_ – _rape_
 
 _Criminal Law_ – _Offences_ – _Offences by or relating to a public servant_ 
 
-[LawNet Editorial Note: The appellant's appeal in Criminal Appeal No 7 of 2013 was dismissed and the Public Prosecutor's appeal in Criminal Appeal No 8 of 2013 was allowed by the Court of Appeal on 15 January 2014. See [[2014] SGCA 17]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appellant's appeal in Criminal Appeal No 7 of 2013 was dismissed and the Public Prosecutor's appeal in Criminal Appeal No 8 of 2013 was allowed by the Court of Appeal on 15 January 2014. See [2014] SGCA 17.] 
 
 13 September 2013 
 

@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Thorben Langvad Linneberg v Leong Mei Kuen 
+# Thorben Langvad Linneberg v Leong Mei Kuen 
 
 
 
@@ -16,7 +16,7 @@
 
 _Tort_ – _Negligence_ – _Motor Accident_ – _Liability_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeal No 141 of 2011 was allowed by the Court of Appeal on 5 July 2012. See [[2012] SGCA 61]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeal No 141 of 2011 was allowed by the Court of Appeal on 5 July 2012. See [2012] SGCA 61.] 
 
 3 February 2012 
 

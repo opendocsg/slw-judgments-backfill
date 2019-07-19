@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Azuma Engineering (S) Pte Ltd v MEP Systems Pte Ltd 
+# Azuma Engineering (S) Pte Ltd v MEP Systems Pte Ltd 
 
 
 
@@ -16,13 +16,13 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: This was an appeal from the decision of the High Court in [[2010] SGHC 282]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0">.] 
+[LawNet Editorial Note: This was an appeal from the decision of the High Court in [2010] SGHC 282.] 
 
 7 April 2011 Judgment reserved. 
 
 **Andrew Phang Boon Leong JA (delivering the judgment of the court):** 
 
-1       This is an appeal against the decision of the trial judge (“the Judge”) in _MEP Systems Pte Ltd v Azuma Engineering (S) Pte Ltd_ [[2010] SGHC 282]("https://www.open.gov.sg")</span> where he found that an option to purchase the leasehold of certain property extended by the Appellant to the Respondent had been automatically terminated pursuant to certain clauses in that option. 
+1       This is an appeal against the decision of the trial judge (“the Judge”) in _MEP Systems Pte Ltd v Azuma Engineering (S) Pte Ltd_ [2010] SGHC 282 where he found that an option to purchase the leasehold of certain property extended by the Appellant to the Respondent had been automatically terminated pursuant to certain clauses in that option. 
 
 **Factual Background** 
 

@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Sinojaya Sdn Bhd v Metal Component Engineering Pte Ltd & A Third Party 
+# Sinojaya Sdn Bhd v Metal Component Engineering Pte Ltd & A Third Party 
 
 
 
@@ -143,7 +143,7 @@
 
 _Tan Yeow Khoon v Tan Yeow Tat & Anor (No. 1)_ 
 
-[[2000] 3 SLR 341]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0"> (distd) 
+[2000] 3 SLR 341 (distd) 
 
 ## Judgment 
 
@@ -341,7 +341,7 @@ not sign the fresh sales agreement.
 
 25\. There was no restriction on the use of the minutes and its circulation. 
 
-26\. Mr Ong also relied on the case of _Tan Yeow Khoon v Tan Yeow Tat & Anor (No. 1)_ [[2000] 3 SLR 341]("https://www.open.gov.sg")</span> for the proposition that there can be a concluded agreement if all the terms are clear, leaving only the mechanics to be resolved. Also, the requirement of action by a third party would not necessarily mean that there was no concluded agreement. 
+26\. Mr Ong also relied on the case of _Tan Yeow Khoon v Tan Yeow Tat & Anor (No. 1)_ [2000] 3 SLR 341 for the proposition that there can be a concluded agreement if all the terms are clear, leaving only the mechanics to be resolved. Also, the requirement of action by a third party would not necessarily mean that there was no concluded agreement. 
 
 27\. As regards the absence of a payment schedule from MCE, Mr Ong suggested that this did not really matter so long as full payment was received within the six months envisaged under paragraph 1 of the minutes. 
 

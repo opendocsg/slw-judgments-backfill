@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Yeap Wai Kong v Singapore Exchange Securities Trading Ltd 
+# Yeap Wai Kong v Singapore Exchange Securities Trading Ltd 
 
 
 
@@ -104,7 +104,7 @@ judicial review principles, and to apply those principles to the present case. I
 
 16     The preceding account of the foundational common law judicial review principles demonstrates the vitality of the common law in upholding the rule of law by adjusting to meet changing public governance landscapes. Only where the sole source of a decision-maker’s power is contractual or consensual would such decision-maker not be susceptible to judicial review. 
 
-17     In Singapore, our courts have in _Public Service Commission v Lai Swee Lin Linda_ [[2001] 1 SLR 644]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0">, _UDL Marine (Singapore) Pte Ltd v Jurong Town Corp_ [[2011] 3 SLR 94]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0"> and _ACC v CIT_ [[2010] 1 SLR 273]("https://www.open.gov.sg")</span>, applied both the Source Test and the Nature Test. 
+17     In Singapore, our courts have in _Public Service Commission v Lai Swee Lin Linda_ [2001] 1 SLR 644, _UDL Marine (Singapore) Pte Ltd v Jurong Town Corp_ [2011] 3 SLR 94 and _ACC v CIT_ [2010] 1 SLR 273, applied both the Source Test and the Nature Test. 
 
 **_The Regulatory Structure and Framework of the Singapore Securities and Futures Market_** 
 

@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Public Prosecutor v Quek Chin Chuan 
+# Public Prosecutor v Quek Chin Chuan 
 
 
 
@@ -117,7 +117,7 @@ Judicature Act (Cap 322) read with s 268 of the Criminal Procedure Code (Cap 68)
 
 basis that there was something `palpably wrong in the decision that strikes at its basis as an exercise 
 
-of judicial power` by the district judge: **Ang Poh Chuan v PP** [[1996] 1 SLR 326]("https://www.open.gov.sg")</span>. The Public 
+of judicial power` by the district judge: **Ang Poh Chuan v PP** [1996] 1 SLR 326. The Public 
 
 Prosecutor raised four issues in the application: the power of the district court to compel 
 

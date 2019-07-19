@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Low Ah Cheow and Others v Ng Hock Guan (personally and as executor/trustee of the estate 
+# Low Ah Cheow and Others v Ng Hock Guan (personally and as executor/trustee of the estate 
 
 # of Ng Teow Yhee, deceased) 
 
@@ -80,7 +80,7 @@ This ac tion is a c laim by c ertain members of the family of the late Ng Teow Y
 
  (e) Sunny’s son, Ng Jian Wen, is the fourth plaintiff c laiming $300,000 through his parents, Sunny and Mdm Chou Li Lan. 
 
-6       The requirements for the existenc e of a sec ret or half-sec ret trust are stated in _Kamla Lal Hiranand v Harilela Padma Hari_ [[2000] 3 SLR 709]("https://www.open.gov.sg")</span> at [31] as follows: 
+6       The requirements for the existenc e of a sec ret or half-sec ret trust are stated in _Kamla Lal Hiranand v Harilela Padma Hari_ [2000] 3 SLR 709 at [31] as follows: 
 
  31 The essentials of the existenc e of a sec ret or half-sec ret trust c reated by the operation of equitable princ iples are these: 
 

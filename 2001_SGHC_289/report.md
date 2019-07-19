@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Wong Jin Fah v L &M Prestressing Pte Ltd and Others (Liberty Citystate Insurance Pte Ltd 
+# Wong Jin Fah v L &M Prestressing Pte Ltd and Others (Liberty Citystate Insurance Pte Ltd 
 
 # (fka Citystate Insurance Pte Ltd and Another, Third Parties) 
 
@@ -16,9 +16,9 @@
 
 **Parties** :Wong Jin Fah — L &M Prestressing Pte Ltd — Liberty Citystate Insurance Pte Ltd (fka Citystate Insurance Pte Ltd; Another 
 
-[LawNet Admin Note: The citation for this case has been reassigned to [[2001] 3 SLR(R) 1]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0">; 
+[LawNet Admin Note: The citation for this case has been reassigned to [2001] 3 SLR(R) 1; 
 
-[[2001] 4 SLR 529]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0">; [[2001] SGHC 249]("https://www.open.gov.sg")</span> on 15 July 2010.] 
+[2001] 4 SLR 529; [2001] SGHC 249 on 15 July 2010.] 
 
  Copyright © Government of Singapore. 
 

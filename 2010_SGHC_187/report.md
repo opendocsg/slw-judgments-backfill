@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Life Bible-Presbyterian Church v Khoo Eng Teck Jeffrey and others and another suit 
+# Life Bible-Presbyterian Church v Khoo Eng Teck Jeffrey and others and another suit 
 
 
 
@@ -18,7 +18,7 @@ _Trusts_
 
 [LawNet Editorial Note: A supplementary judgment was delivered by the Court of Appeal on 25 July 
 
-2012\. See [[2012] SGCA 37]("https://www.open.gov.sg")</span>.] 
+2012\. See [2012] SGCA 37.] 
 
 30 June 2010 Judgment reserved. 
 

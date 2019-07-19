@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Kimly Construction Pte Ltd v Lee Tong Boon (trading as Rango Machinery Services) (Tan 
+# Kimly Construction Pte Ltd v Lee Tong Boon (trading as Rango Machinery Services) (Tan 
 
 # Juay Pah, third party; 
 
@@ -22,7 +22,7 @@ _Contract_
 
 _Civil Procedure_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 208 of 2010 was allowed by the Court of Appeal on 2 March 2012. See [[2012] SGCA 17]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 208 of 2010 was allowed by the Court of Appeal on 2 March 2012. See [2012] SGCA 17.] 
 
 28 January 2011 
 

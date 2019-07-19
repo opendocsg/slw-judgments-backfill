@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Cheo Sharon Andriesz v Official Assignee of the estate of Andriesz Paul Matthew, a bankrupt 
+# Cheo Sharon Andriesz v Official Assignee of the estate of Andriesz Paul Matthew, a bankrupt 
 
 
 
@@ -16,7 +16,7 @@
 
 _Insolvency Law_ – _Bankruptcy_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 49 of 2012 was dismissed by the Court of Appeal on 27 November 2012. See [[2013] SGCA 8]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 49 of 2012 was dismissed by the Court of Appeal on 27 November 2012. See [2013] SGCA 8.] 
 
 3 July 2012 
 

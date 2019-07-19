@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># ATZ v AUA 
+# ATZ v AUA 
 
 
 
@@ -22,13 +22,13 @@ _Family law_ – _Child_ – _Maintenance of child_
 
 _Family law_ – _Guardianship_ – _Welfare of child_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 136 of 2015 was allowed in part by the Court of Appeal on 12 July 2016. See [[2016] SGCA 41]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0">.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 136 of 2015 was allowed in part by the Court of Appeal on 12 July 2016. See [2016] SGCA 41.] 
 
 14 July 2015 
 
 **Belinda Ang Saw Ean J:** 
 
-1       This judgment supplements my judgment in _ATZ v AUA_ [[2015] SGHC 161]("https://www.open.gov.sg")</span> released on 24 June 2015 (“June 2015 Judgment”), and I adopt the definitions which I have used there. 
+1       This judgment supplements my judgment in _ATZ v AUA_ [2015] SGHC 161 released on 24 June 2015 (“June 2015 Judgment”), and I adopt the definitions which I have used there. 
 
 2       After the release of the June 2015 Judgment, Ms Loo informed the court in her letter of 26 June 2015 that the rental of the new accommodation at Villa Marina is $3,750 per month and not the figure of $3,150 as stated in [86] of the June 2015 Judgment. Ms Loo referred to the Tenancy Agreement dated 30 September 2014 for Villa Marina which she tendered without an accompanying affidavit during the hearing on 9 October 2014. 
 

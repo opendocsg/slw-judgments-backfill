@@ -1,4 +1,4 @@
-<span style="background-color: #FAC0C0"># Public Prosecutor v Sinnappan a/l Nadarajah 
+# Public Prosecutor v Sinnappan a/l Nadarajah 
 
 
 
@@ -16,7 +16,7 @@
 
 _Criminal Law_ – _Statutory offences_ – _Misuse of Drugs Act_ – _Illegal importation of controlled drugs_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 5 of 2017 was dismissed by the Court of Appeal on 3 May 2018. See [[2018] SGCA 21]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 5 of 2017 was dismissed by the Court of Appeal on 3 May 2018. See [2018] SGCA 21.] 
 
 10 February 2017 Judgment reserved. 
 
