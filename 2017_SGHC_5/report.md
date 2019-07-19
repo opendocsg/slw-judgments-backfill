@@ -1,4 +1,4 @@
-# Public Prosecutor v Chia Kee Chen 
+<span style="background-color: #FAC0C0"># Public Prosecutor v Chia Kee Chen 
 
 
 
@@ -18,7 +18,7 @@ _Criminal Law_ – _Offences_ – _Murder_
 
 _Criminal Procedure and Sentencing_ – _Voir Dire_ 
 
-[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 40 of 2017 was allowed while the appeal in Criminal Appeal No 41 of 2017 was dismissed by the Court of Appeal on 27 June 2018. See [2018] SGCA 30.] 
+[LawNet Editorial Note: The appeal to this decision in Criminal Appeal No 40 of 2017 was allowed while the appeal in Criminal Appeal No 41 of 2017 was dismissed by the Court of Appeal on 27 June 2018. See [[2018] SGCA 30]("https://www.open.gov.sg")</span>.] 
 
 17 January 2017 
 

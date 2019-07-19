@@ -1,4 +1,4 @@
-# The "Ivanovo" 
+<span style="background-color: #FAC0C0"># The "Ivanovo" 
 
 
 
@@ -275,9 +275,9 @@ There is support for this proposition, albeit on a narrower basis that a ship`s 
 
 facie evidence of its ownership, see the judgment of GP Selvam JC (as he then was) in **The Opal 3 ex** 
 
-**Kuchino** [1992] 2 SLR 585. 
+**Kuchino** [[1992] 2 SLR 585]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0">. 
 
-The learned judge developed on this in his judgment in **The Kapitan Temkin** [1998] 3 SLR 254. Some 
+The learned judge developed on this in his judgment in **The Kapitan Temkin** [[1998] 3 SLR 254]("https://www.open.gov.sg")</span>. Some 
 
 of the essential facts in the case are similar to the facts here. The plaintiffs claimed as charterers of 
 

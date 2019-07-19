@@ -1,4 +1,4 @@
-# NCC International AB v Alliance Concrete Singapore Pte Ltd 
+<span style="background-color: #FAC0C0"># NCC International AB v Alliance Concrete Singapore Pte Ltd 
 
 
 
@@ -189,7 +189,7 @@ has been relaxed.
 
  [Emphasis added] 
 
-He submitted that a statement is the current law, and emphasised that _Films Rover_ was endorsed by the Court of Appeal in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ [1992] 2 SLR 729 
+He submitted that a statement is the current law, and emphasised that _Films Rover_ was endorsed by the Court of Appeal in _Chuan Hong Petrol Station Pte Ltd v Shell Singapore (Pte) Ltd_ [[1992] 2 SLR 729]("https://www.open.gov.sg")</span> 
 
 
 where Warren LH Khoo J in delivering the judgment of the court stated at 743: 

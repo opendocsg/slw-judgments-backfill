@@ -1,4 +1,4 @@
-# Orchard Central Pte Ltd v Cupid Jewels Pte Ltd and another (Forever Jewels Pte Ltd, non
+<span style="background-color: #FAC0C0"># Orchard Central Pte Ltd v Cupid Jewels Pte Ltd and another (Forever Jewels Pte Ltd, non
 
 # party) 
 
@@ -18,7 +18,7 @@
 
 _Personal Property_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 182 of 2010 was partially allowed by the Court of Appeal on 28 February 2011. See [2011] SGCA 15.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 182 of 2010 was partially allowed by the Court of Appeal on 28 February 2011. See [[2011] SGCA 15]("https://www.open.gov.sg")</span>.] 
 
 8 October 2010 
 

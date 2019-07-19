@@ -1,4 +1,4 @@
-# Wee Soon Kim Anthony v Chor Pee & Partners 
+<span style="background-color: #FAC0C0"># Wee Soon Kim Anthony v Chor Pee & Partners 
 
 
 
@@ -74,7 +74,7 @@ This attachment will be referred to hereinafter as “the Attachment”.
 7       At 7.12pm on the same day, Lim responded by e-mail to Wee’s request for a lump sum fee in handling S 834, stating “[h]erewith revised fee agreement on a lump sum basis up to conclusion of 
 
 
-trial including any settlement or discontinuance but excluding all court fees and disbursements” (“the 7.12pm e-mail”). It was common ground at the trial that this “revised fee agreement” was never sent to Wee (see [2005] 3 SLR 433 at [52]). 
+trial including any settlement or discontinuance but excluding all court fees and disbursements” (“the 7.12pm e-mail”). It was common ground at the trial that this “revised fee agreement” was never sent to Wee (see [[2005] 3 SLR 433]("https://www.open.gov.sg")</span> at [52]). 
 
 8       On the next day, the respondent issued an invoice to Wee for the sum of $50,000 which was duly paid. On the following dates, further invoices were issued by the respondent to Wee for various sums in relation to the action, all of which were paid by Wee: 
 

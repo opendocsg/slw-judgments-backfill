@@ -1,4 +1,4 @@
- a. Pain and suffering for fracture of knee (left patella) $50,000. b. Pain and suffering for abrasion to the left knee $500. 
+<span style="background-color: #FAC0C0"> a. Pain and suffering for fracture of knee (left patella) $50,000. b. Pain and suffering for abrasion to the left knee $500. 
 
  c. Pain and suffering for strained left ankle $5,000. 
 
@@ -22,7 +22,7 @@
 
 _Tort_ – _Negligence_ – _Damages_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 125 of 2015 was allowed in part by the Court of Appeal on 14 July 2016. See [2016] SGCA 44.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 125 of 2015 was allowed in part by the Court of Appeal on 14 July 2016. See [[2016] SGCA 44]("https://www.open.gov.sg")</span>.] 
 
 19 May 2015 Judgment reserved. 
 

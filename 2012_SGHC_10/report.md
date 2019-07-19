@@ -1,4 +1,4 @@
-# Low Hian Chor v Steel Forming & Rolling Specialists Pte Ltd and another 
+<span style="background-color: #FAC0C0"># Low Hian Chor v Steel Forming & Rolling Specialists Pte Ltd and another 
 
 
 
@@ -16,7 +16,7 @@
 
 _Companies_ 
 
-[LawNet Editorial Note: Civil Appeal No 123 of 2011, Summons No 1423 of 2012 and Summons No 2120 of 2012 were allowed by the Court of Appeal on 31 January 2013. See [2013] SGCA 11.] 
+[LawNet Editorial Note: Civil Appeal No 123 of 2011, Summons No 1423 of 2012 and Summons No 2120 of 2012 were allowed by the Court of Appeal on 31 January 2013. See [[2013] SGCA 11]("https://www.open.gov.sg")</span>.] 
 
 13 January 2012 
 

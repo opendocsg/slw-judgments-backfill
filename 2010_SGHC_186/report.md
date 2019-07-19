@@ -1,4 +1,4 @@
-# Petroprod Ltd (in official liquidation in the Cayman Islands and in compulsory liquidation in 
+<span style="background-color: #FAC0C0"># Petroprod Ltd (in official liquidation in the Cayman Islands and in compulsory liquidation in 
 
 # Singapore) v Larsen Oil and Gas Pte Ltd 
 
@@ -18,7 +18,7 @@
 
 _Arbitration_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 122 of 2010 was dismissed by the Court of Appeal on 28 September 2010. See [2011] SGCA 21.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 122 of 2010 was dismissed by the Court of Appeal on 28 September 2010. See [[2011] SGCA 21]("https://www.open.gov.sg")</span>.] 
 
 30 June 2010 Judgment reserved. 
 

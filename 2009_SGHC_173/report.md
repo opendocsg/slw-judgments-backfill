@@ -1,4 +1,4 @@
-# Public Prosecutor v Ong Pang Siew 
+<span style="background-color: #FAC0C0"># Public Prosecutor v Ong Pang Siew 
 
 
 
@@ -170,7 +170,7 @@ Defence counsel confirmed that he was not relying on the defence of intoxication
 48     In considering the applicability of Exception 7 in s 300 of the Penal Code, the court considers not only the medical evidence but also the evidence upon the whole facts and circumstances of the 
 
 
-case ( _Took Leng How v PP_ [2006] 2 SLR 70 at [46] of the majority judgment). This defence is to be discharged on a balance of probabilities ( _Chua Hwa Soon Jimmy v PP_ [1998] 2 SLR 22 at [8]). 
+case ( _Took Leng How v PP_ [[2006] 2 SLR 70]("https://www.open.gov.sg")</span><span style="background-color: #FAC0C0"> at [46] of the majority judgment). This defence is to be discharged on a balance of probabilities ( _Chua Hwa Soon Jimmy v PP_ [[1998] 2 SLR 22]("https://www.open.gov.sg")</span> at [8]). 
 
 49     Dr Tommy Tan’s interviews and opinion were rendered in August 2008, some 10 months after the killing. His findings regarding the accused’s lethargy, insomnia and difficulty in coping with his work ran contrary to the evidence adduced in court. On 20 October 2007, the accused was walking about the housing estate where he lived, talking and having drinks with friends and performing daily chores like ironing of clothes. On his own testimony, the beer drinking session in the afternoon lasted five or six hours until nightfall. 
 

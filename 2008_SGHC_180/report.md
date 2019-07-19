@@ -1,4 +1,4 @@
-# Asian Corporate Services (SEA) Pte Ltd v Impact Pacific Consultants Pte Ltd and Others 
+<span style="background-color: #FAC0C0"># Asian Corporate Services (SEA) Pte Ltd v Impact Pacific Consultants Pte Ltd and Others 
 
 
 
@@ -72,7 +72,7 @@ Woo Bih Li J:
 
 17     I did not agree with these two submissions. It was clear to me that under clause 2.1 and 2.2 of the SA, the defendants were liable to pay ACS, both $650,000 and costs. That was the bargain. Clause 2.2 of the SA also envisaged the costs to be taxed by the reference to an assessment of such costs even though there was no explicit reference to a registrar’s certificate upon taxation. 
 
-18     Mr Ooi’s third argument was that it was too late for ACS to seek an order for taxation as ACS had already filed its Notice of Discontinuance for Suit 834/2004 and had omitted to obtain such an order in the same action. For this proposition, he relied on [26] of the judgment of the Court of Appeal in _Chin Yoke Choong Bobby v Hong Lam Marine Pte Ltd_ [2000] 1 SLR 137 (“ _Bobby Chin_ ”). 
+18     Mr Ooi’s third argument was that it was too late for ACS to seek an order for taxation as ACS had already filed its Notice of Discontinuance for Suit 834/2004 and had omitted to obtain such an order in the same action. For this proposition, he relied on [26] of the judgment of the Court of Appeal in _Chin Yoke Choong Bobby v Hong Lam Marine Pte Ltd_ [[2000] 1 SLR 137]("https://www.open.gov.sg")</span> (“ _Bobby Chin_ ”). 
 
 19     Before I set out [26] of that judgment, it is appropriate to bear in mind the facts in that case. 
 

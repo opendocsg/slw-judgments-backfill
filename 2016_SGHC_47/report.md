@@ -1,4 +1,4 @@
-# Quek Kwee Kee Victoria (executrix of the estate of Quek Kiat Siong, deceased) and another v 
+<span style="background-color: #FAC0C0"># Quek Kwee Kee Victoria (executrix of the estate of Quek Kiat Siong, deceased) and another v 
 
 # American International Assurance Co Ltd and another 
 
@@ -18,7 +18,7 @@
 
 _Insurance_ – _Accident insurance_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 57 of 2016 was allowed by the Court of Appeal on 2 February 2017. See [2017] SGCA 10.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 57 of 2016 was allowed by the Court of Appeal on 2 February 2017. See [[2017] SGCA 10]("https://www.open.gov.sg")</span>.] 
 
 29 March 2016 Judgment reserved. 
 

@@ -1,4 +1,4 @@
-# Phua Kiah Mai and another v Foo Jong Peng and others 
+<span style="background-color: #FAC0C0"># Phua Kiah Mai and another v Foo Jong Peng and others 
 
 
 
@@ -16,7 +16,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 4 of 2012 was dismissed by the Court of Appeal on 24 May 2012. See [2012] SGCA 55.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 4 of 2012 was dismissed by the Court of Appeal on 24 May 2012. See [[2012] SGCA 55]("https://www.open.gov.sg")</span>.] 
 
 19 January 2012 Judgment reserved. 
 

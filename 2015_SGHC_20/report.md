@@ -1,4 +1,4 @@
-# Enholco Pte Ltd v Schonk, Antonius Martinus Mattheus and Another 
+<span style="background-color: #FAC0C0"># Enholco Pte Ltd v Schonk, Antonius Martinus Mattheus and Another 
 
 
 
@@ -16,7 +16,7 @@
 
 _Employment law_ – _Employees’ duties_ 
 
-[LawNet Editorial Note: The appeals to this decision in Civil Appeal Nos 47 and 106 of 2015 was allowed in part by the Court of Appeal on 24 November 2015. See [2015] SGCA 65.] 
+[LawNet Editorial Note: The appeals to this decision in Civil Appeal Nos 47 and 106 of 2015 was allowed in part by the Court of Appeal on 24 November 2015. See [[2015] SGCA 65]("https://www.open.gov.sg")</span>.] 
 
 4 February 2015 Judgment reserved. 
 

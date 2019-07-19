@@ -1,4 +1,4 @@
-# Bayerische Landesbank Girozentrale v Kong Kok Keong and another action 
+<span style="background-color: #FAC0C0"># Bayerische Landesbank Girozentrale v Kong Kok Keong and another action 
 
 
 
@@ -189,7 +189,7 @@ to the jurisdiction. In my opinion the circumstances do not justify exercising t
 
 favour. 
 
-In **Eng Liat Kiang v Eng Bak Hern** [1995] 3 SLR 97 , the Court of Appeal held that even if the other 
+In **Eng Liat Kiang v Eng Bak Hern** [[1995] 3 SLR 97]("https://www.open.gov.sg")</span> , the Court of Appeal held that even if the other 
 
 forum were clearly the more appropriate one, the court still had a residual discretion to refuse the 
 

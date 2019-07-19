@@ -1,4 +1,4 @@
-# Lee Kim Kiat v Lee Biow Neo and Others 
+<span style="background-color: #FAC0C0"># Lee Kim Kiat v Lee Biow Neo and Others 
 
 
 
@@ -304,7 +304,7 @@ A _This letter was not signed by me, though it says from me. I could have been a
 51     Each case must depend on its own facts but it ought to be noted that in _Tay Yok Swee v_ 
 
 
-_United Overseas Bank & Ors_ [1994] 2 SLR 217, LP Thean JA, who delivered the judgment of the Court of Appeal, said at p 222 as follows: 
+_United Overseas Bank & Ors_ [[1994] 2 SLR 217]("https://www.open.gov.sg")</span>, LP Thean JA, who delivered the judgment of the Court of Appeal, said at p 222 as follows: 
 
  [T]he contention of a resulting trust ... is premised upon the presumption that the parties intended to hold the property in the shares they had contributed. It is an implied trust which operates to give effect to the presumed intentions of the parties. Implications of such a trust, however, are rebutted whenever there exists clear evidence that the parties’ intentions were to the contrary. In the present case, the parties had made prior statements or declarations of their interests in the property: both the conveyance and the mortgage stated that the property was held by the joint venture parties as tenants-in-common, each in ... In our view, these express statements or declarations of the parties’ shares in the property rule out completely any implication of a resulting trust arising from unequal contributions made by the parties to the ‘costs of acquisition’ of the property, assuming that the parties did make such unequal contributions as alleged....” 
 
