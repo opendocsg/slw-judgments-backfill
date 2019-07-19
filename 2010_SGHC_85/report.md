@@ -18,7 +18,7 @@ _Contract_ – _Breach_
 
 _Building and construction law_ – _Contractors’ duties_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 60 of 2010 was allowed by the Court of Appeal on 20 January 2011. See [2011] SGCA 2.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 60 of 2010 was allowed by the Court of Appeal on 20 January 2011. See <span style="background-color: #FAC0C0">[[2011] SGCA 2]("https://www.open.gov.sg")</span>.] 
 
 17 March 2010 Judgment reserved. 
 

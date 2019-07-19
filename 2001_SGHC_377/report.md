@@ -409,13 +409,13 @@ grounds of forum non conveniens are set out by Lord Goff of Chiveley in **The Sp
 
 In Singapore, both at the first instance and at the appellate level, the courts have consistently 
 
-applied the foregoing principles (see **The Vishva Apurva** [1992] 2 SLR 175 , **Brinkerhoff Maritime** 
+applied the foregoing principles (see **The Vishva Apurva** <span style="background-color: #FAC0C0">[[1992] 2 SLR 175]("https://www.open.gov.sg")</span> , **Brinkerhoff Maritime** 
 
-**Drilling Corp v PT Airfast Services Indonesia** [1992] 2 SLR 776 , **Oriental Insurance Co v** 
+**Drilling Corp v PT Airfast Services Indonesia** <span style="background-color: #FAC0C0">[[1992] 2 SLR 776]("https://www.open.gov.sg")</span> , **Oriental Insurance Co v** 
 
-**Bhavani Stores** [1998] 1 SLR 253 and **Datuk Hamzah bin Mohd Noor v Tunku Ibrahim Ismail Ibni** 
+**Bhavani Stores** <span style="background-color: #FAC0C0">[[1998] 1 SLR 253]("https://www.open.gov.sg")</span> and **Datuk Hamzah bin Mohd Noor v Tunku Ibrahim Ismail Ibni** 
 
-**Sultan Iskandar A-Haj** [2001] 4 SLR 396 ). 
+**Sultan Iskandar A-Haj** <span style="background-color: #FAC0C0">[[2001] 4 SLR 396]("https://www.open.gov.sg")</span> ). 
 
 What is clear from the abovementioned cases is that in exercising its discretion, the court should take 
 

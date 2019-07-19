@@ -143,7 +143,7 @@ accounts controlled by him. As the cabin crew to whom the allowances were due we
 
 ## sentencing in criminal breach of trust cases, was endorsed by the Court of 
 
-## Appeal in PP v Lee Meow Sim Jenny [1993] 2 SLR 885 at page 893. 
+## Appeal in PP v Lee Meow Sim Jenny <span style="background-color: #FAC0C0">[[1993] 2 SLR 885]("https://www.open.gov.sg")</span> at page 893. 
 
 ## 3 The ten Charges in the present case involve sums of money ranging from 
 
