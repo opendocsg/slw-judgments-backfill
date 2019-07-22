@@ -257,7 +257,7 @@ dollars from the first figure of $687,866.84.
 
 **Determining the appropriate division of the matrimonial pool** 
 
-28     The structured approach, as set out _ANJ v ANK_ [2015] 4 SLR 1043 (“ _ANJ v ANK_ ”) (at [17]– [30]), was summarised in three broad steps set out in _Twiss, Christopher James Hans v Twiss, Yvonne Prendergast_ [2015] SGCA 52 (at [17]), as follows: 
+28     The structured approach, as set out _ANJ v ANK_ <span style="background-color: #FAC0C0" class="citation">[[2015] 4 SLR 1043]("https://www.open.gov.sg")</span> (“ _ANJ v ANK_ ”) (at [17]– [30]), was summarised in three broad steps set out in _Twiss, Christopher James Hans v Twiss, Yvonne Prendergast_ <span style="background-color: #FAC0C0" class="citation">[[2015] SGCA 52]("https://www.open.gov.sg")</span> (at [17]), as follows: 
 
  (a) express as a ratio the parties’ direct contributions relative to each other, having regard to the amount of financial contribution each party made towards the acquisition or improvement of the matrimonial assets (“Step 1”); 
 
