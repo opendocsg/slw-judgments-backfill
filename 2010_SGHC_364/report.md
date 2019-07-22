@@ -13,7 +13,7 @@ Family Law
 
 [LawNet Editorial Note: In the appeals to this decision, Civil Appeal No 94 of 2010 was allowed in part
 and Civil Appeal No 96 of 2010 was allowed in its entirety by the Court of Appeal on 29 April 2011.
-See <span style="background-color: #FAC0C0">[[2011] SGCA 25]("https://www.open.gov.sg")</span>.]
+See [2011] SGCA 25.]
 
 21 December 2010
 

@@ -14,9 +14,9 @@
 
 **Parties** :Aberdeen Asset Management Asia Ltd; Anor — Fraser & Neave Limited 
 
-**[LawNet Admin Note: The citation for this case has been reassigned to <span style="background-color: #FAC0C0">[[2001] 3 SLR(R) 355]("https://www.open.gov.sg")</span>;** 
+**[LawNet Admin Note: The citation for this case has been reassigned to [2001] 3 SLR(R) 355;** 
 
-**<span style="background-color: #FAC0C0">[[2001] 4 SLR 441]("https://www.open.gov.sg")</span>; <span style="background-color: #FAC0C0">[[2001] SGCA 65]("https://www.open.gov.sg")</span> on 12 May 2010.]** 
+**[2001] 4 SLR 441; [2001] SGCA 65 on 12 May 2010.]** 
 
  Copyright © Government of Singapore. 
 

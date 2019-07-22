@@ -16,7 +16,7 @@
 
 _Family law_ 
 
-[LawNet Editorial Note: The appeal in Civil Appeal No 33 of 2012 was allowed in part by the Court of Appeal on 24 September 2012. See <span style="background-color: #FAC0C0">[[2012] SGCA 66]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal in Civil Appeal No 33 of 2012 was allowed in part by the Court of Appeal on 24 September 2012. See [2012] SGCA 66.] 
 
 13 April 2012 
 

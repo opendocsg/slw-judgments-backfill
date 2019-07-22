@@ -232,7 +232,7 @@ Lai Kew Chai J, in dismissing D’s appeal against the stay order granted by the
 
  The police ceased their investigation after the daughter left Singapore. She was no longer within the jurisdiction of the police. 
 
-The judgment is reported in _Re A (an infant)_ <span style="background-color: #FAC0C0">[[2002] 2 SLR 137]("https://www.open.gov.sg")</span>. 
+The judgment is reported in _Re A (an infant)_ [2002] 2 SLR 137. 
 
 46     In any event, the question whether D did or did not sexually abuse the child was not an issue in these proceedings and I do not have to make any determination on that. I note, however, that Dr Wong, without the benefit of interviewing the child, came to the conclusion that D did not behave in any sexually improper way towards his child. 
 

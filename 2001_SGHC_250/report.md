@@ -4,7 +4,7 @@
 
 **Case Number** :Suit No 474 of 2000/L **Decision Date** :31 August 2001 **Tribunal/Court** :High Court **Coram** :Lai Siu Chiu J **Counsel Name(s)** :— **Parties** :— 
 
-[LawNet Admin Note: The citation for this case has been reassigned to <span style="background-color: #FAC0C0">[[2001] 3 SLR(R) 1]("https://www.open.gov.sg")</span>; <span style="background-color: #FAC0C0">[[2001] 4 SLR 529]("https://www.open.gov.sg")</span>; <span style="background-color: #FAC0C0">[[2001] SGHC 249]("https://www.open.gov.sg")</span> on 23 August 2010.] Copyright © Government of Singapore. 
+[LawNet Admin Note: The citation for this case has been reassigned to [2001] 3 SLR(R) 1; [2001] 4 SLR 529; [2001] SGHC 249 on 23 August 2010.] Copyright © Government of Singapore. 
 
 
 Source: [link](https://www.singaporelawwatch.sg/Portals/0/Docs/Judgments/[2001] SGHC 250.pdf)

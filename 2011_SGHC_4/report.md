@@ -16,7 +16,7 @@
 
 _Contract_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 16 of 2011 was allowed by the Court of Appeal on 06 July 2011. See <span style="background-color: #FAC0C0">[[2011] SGCA 45]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 16 of 2011 was allowed by the Court of Appeal on 06 July 2011. See [2011] SGCA 45.] 
 
 11 January 2011 Judgment reserved. 
 

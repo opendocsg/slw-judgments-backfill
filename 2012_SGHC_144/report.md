@@ -16,7 +16,7 @@
 
 _Family Law_ – _Custody_ – _Maintenance_ – _Matrimonial assets_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 15 of 2012 was allowed in part by the Court of Appeal on 28 January 2013. See <span style="background-color: #FAC0C0">[[2013] SGCA 14]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 15 of 2012 was allowed in part by the Court of Appeal on 28 January 2013. See [2013] SGCA 14.] 
 
 17 July 2012 
 
