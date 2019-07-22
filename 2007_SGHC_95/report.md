@@ -302,7 +302,7 @@ Between convictions (f) and (g), he was detained under the Criminal Law (Tempora
 103    I found that the accused should receive a substantial sentence. The offence on which he was convicted carries a sentence of imprisonment of up to 20 years, together with discretionary fine and canning. For rape cases, guidelines have long been established in _Chia Kim Heng Frederick v Public_ 
 
 
-_Prosecutor_ <span style="background-color: #FAC0C0" class="citation">[[1992] 1 SLR 361]("https://www.open.gov.sg")</span>, which I will not set out here. 
+_Prosecutor_ [1992] 1 SLR 361, which I will not set out here. 
 
 104    Taking into account particularly (but not exclusively) C’s youth, the accused’s position of dominance, his denial of any wrongdoing, the absence of any remorse, and his antecedents, I sentenced him to 16 years imprisonment, backdated to run from the date of his detention following his arrest, and 10 strokes of the cane. 
 

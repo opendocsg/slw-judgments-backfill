@@ -18,7 +18,7 @@ _DAMAGES_ – _Assessment_
 
 _LANDLORD AND TENANT_ – _Agreement for leases_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 40 of 2015 was dismissed by the Court of Appeal on 1 February 2016. See <span style="background-color: #FAC0C0" class="citation">[[2016] SGCA 18]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 40 of 2015 was dismissed by the Court of Appeal on 1 February 2016. See [2016] SGCA 18.] 
 
 20 January 2015 Judgment reserved. 
 

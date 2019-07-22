@@ -18,7 +18,7 @@
 
 _Arbitration_ 
 
-[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 122 of 2010 was dismissed by the Court of Appeal on 28 September 2010. See <span style="background-color: #FAC0C0" class="citation">[[2011] SGCA 21]("https://www.open.gov.sg")</span>.] 
+[LawNet Editorial Note: The appeal to this decision in Civil Appeal No 122 of 2010 was dismissed by the Court of Appeal on 28 September 2010. See [2011] SGCA 21.] 
 
 30 June 2010 Judgment reserved. 
 
