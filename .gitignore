@@ -1,5 +1,6 @@
-utils/.idea
-utils/__pycache__
+**/.idea
+*.pyc
+*.pyo
 .DS_Store
 .ipynb_checkpoints/
 .venv/
